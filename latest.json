@@ -1,1 +1,9 @@
-{"versionCode":7,"versionName":"2.1.4","minimumVersionCode":5,"releaseTag":"v2.1.4","releaseNotes":"Mejora los permisos y la entrega visible de notificaciones Suite y avisos.","sha256":"b56473128d94e2e68a8dbf08c0bacb97a05ccbe9621b93cc3373fdf863d793f6","apkUrl":"https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.1.4/mathrix.apk"}
+{
+  "versionCode": 8,
+  "versionName": "2.2.0",
+  "minimumVersionCode": 5,
+  "releaseTag": "v2.2.0",
+  "releaseNotes": "- Los Nuevos Pasos Animados muestran procedimientos vinculados con los resultados reales de los solucionadores.\n- Se añadieron y mejoraron ejemplos visuales en LaTeX, con correspondencia y resaltado de los campos de entrada.\n- La búsqueda muestra todos los resultados y permite desplazarse por la lista.\n- La visualización 3D de sólidos de revolución se optimizó y está disponible para Suite.\n- Se incorporaron mejoras de interfaz, validación, privacidad, comentarios y actualización de la aplicación.",
+  "sha256": "2df03d9ace73670ecc7dee64cac2eb3a1fe0063cf3f9f548d19a1ae088fd5af8",
+  "apkUrl": "https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.2.0/mathrix.apk"
+}
