@@ -1,9 +1,9 @@
 {
-  "versionCode": 8,
+  "versionCode": 9,
   "versionName": "2.2.1",
   "minimumVersionCode": 5,
   "releaseTag": "v2.2.1",
   "releaseNotes": "- El icono de Android ahora sigue el color de acento elegido en la app; la selección se conserva al volver a abrirla.\n- La búsqueda muestra hasta cinco temas recientes al enfocar el campo vacío. \n- Mejoras Menores.",
   "sha256": "50EE82636DFDAF3819BCCA6955A61408D38FB7B533E92EB235CC4DA2EC0C3C3D",
-  "apkUrl": "https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.2.1/MATHrix.apk"
+  "apkUrl": "https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.2.1/mathrix.apk"
 }
