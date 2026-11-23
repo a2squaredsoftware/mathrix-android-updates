@@ -1,9 +1,9 @@
 {
-  "versionCode": 12,
-  "versionName": "2.2.4",
+  "versionCode": 13,
+  "versionName": "2.3.0",
   "minimumVersionCode": 5,
-  "releaseTag": "v2.2.4",
-  "releaseNotes": "- Mejoras menores",
-  "sha256": "66042C0A378EEFE0BF15A49E904D3CE4B512E7D20A649A2583428B9F69A8F6D3",
-  "apkUrl": "https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.2.4/mathrix.apk"
+  "releaseTag": "v2.3.0",
+  "releaseNotes": "- Mi cuenta muestra el nombre y la foto de perfil de Google junto al correo.\n- Más opciones para personalizar la apariencia y los colores.\n- Mejoras en búsqueda, navegación y presentación de calculadoras.\n- Ajustes de experiencia y compatibilidad en Android.",
+  "sha256": "B07DF46B358C71C1813CABD8337EA69CAF0790C946B16AA69E8C5BDA08598870",
+  "apkUrl": "https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.3.0/mathrix.apk"
 }
