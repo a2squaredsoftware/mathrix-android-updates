@@ -1,1 +1,9 @@
-{"versionCode":11,"versionName":"2.2.3","minimumVersionCode":5,"releaseTag":"v2.2.3","releaseNotes":"El cambio del icono de inicio ahora se aplica cuando MATHrix pasa a segundo plano, para evitar interrumpir la sesion al cambiar el color de acento.","sha256":"440B6E7338FD9F8AB984A377EB0858454BA904826DC10A5C6EE2519DD1762372","apkUrl":"https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.2.3/mathrix.apk"}
+{
+  "versionCode": 12,
+  "versionName": "2.2.4",
+  "minimumVersionCode": 5,
+  "releaseTag": "v2.2.4",
+  "releaseNotes": "- Mejoras menores",
+  "sha256": "66042C0A378EEFE0BF15A49E904D3CE4B512E7D20A649A2583428B9F69A8F6D3",
+  "apkUrl": "https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.2.4/mathrix.apk"
+}
