@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "2.3.1",
+  "versionCode": 15,
+  "versionName": "2.3.2",
   "minimumVersionCode": 5,
-  "releaseTag": "v2.3.1",
+  "releaseTag": "v2.3.2",
   "releaseNotes": "- Al seleccionar «Cuaderno de Cobalto», la app cambia automáticamente a modo claro y aplica su acento y contenedores predeterminados.\n- Los procedimientos animados ahora muestran únicamente los pasos del ejercicio que se está resolviendo.\n- Reemplazado el icono de integral en «Mostrar símbolos de integrales».\n- Mejorado el diseño del modal de actualizaciones.",
   "sha256": "DFDCE2CD67F40E00928F80343BA146808661FC333038FA0A5A2D016ECE7A04EC",
   "apkUrl": "https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.3.1/mathrix.apk"
