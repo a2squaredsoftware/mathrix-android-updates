@@ -1,9 +1,9 @@
 {
-  "versionCode": 14,
-  "versionName": "2.3.1",
+  "versionCode": 17,
+  "versionName": "2.4.5",
   "minimumVersionCode": 5,
-  "releaseTag": "v2.3.1",
-  "releaseNotes": "- Al seleccionar «Cuaderno de Cobalto», la app cambia automáticamente a modo claro y aplica su acento y contenedores predeterminados.\n- Los procedimientos animados ahora muestran únicamente los pasos del ejercicio que se está resolviendo.\n- Reemplazado el icono de integral en «Mostrar símbolos de integrales».\n- Mejorado el diseño del modal de actualizaciones.",
-  "sha256": "DFDCE2CD67F40E00928F80343BA146808661FC333038FA0A5A2D016ECE7A04EC",
-  "apkUrl": "https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.3.1/mathrix.apk"
+  "releaseTag": "v2.4.5",
+  "releaseNotes": "- Tema «Observatorio nocturno» renovado: ciclo de cielo día/noche, luna, nubes, estrellas fugaces (ocasionales y al tocar), constelaciones y animación del observatorio, sin cuadrícula de fondo y con brillos sutiles.\n- En Android, las cuentas con acceso Suite pueden mostrar el acceso directo como «MATHrix Suite» conservando el icono del color de acento.\n- La app aplica antes el tema y color de acento guardados al abrir; la pantalla de carga recupera su fondo difuminado con cuadrícula; y el hover de «Materias disponibles» usa el mismo tono de acento que «Solucionadores directos».\n- «Geometría Analítica» (antes Cónicas & Geometría), acceso a «Cónicas desde datos» según disponibilidad Suite, ventana comparativa más clara y corrección al abrir la política de privacidad.",
+  "sha256": "4F3DD14EEF1F12A4EC78FC274669BBC367F4E96FAFC8528AD61129E8AE19F095",
+  "apkUrl": "https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.4.5/mathrix.apk"
 }
