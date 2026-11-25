@@ -1,9 +1,9 @@
 {
-  "versionCode": 17,
-  "versionName": "2.4.5",
+  "versionCode": 18,
+  "versionName": "2.4.6",
   "minimumVersionCode": 5,
-  "releaseTag": "v2.4.5",
-  "releaseNotes": "- Tema «Observatorio nocturno» renovado: ciclo de cielo día/noche, luna, nubes, estrellas fugaces (ocasionales y al tocar), constelaciones y animación del observatorio, sin cuadrícula de fondo y con brillos sutiles.\n- En Android, las cuentas con acceso Suite pueden mostrar el acceso directo como «MATHrix Suite» conservando el icono del color de acento.\n- La app aplica antes el tema y color de acento guardados al abrir; la pantalla de carga recupera su fondo difuminado con cuadrícula; y el hover de «Materias disponibles» usa el mismo tono de acento que «Solucionadores directos».\n- «Geometría Analítica» (antes Cónicas & Geometría), acceso a «Cónicas desde datos» según disponibilidad Suite, ventana comparativa más clara y corrección al abrir la política de privacidad.",
-  "sha256": "4F3DD14EEF1F12A4EC78FC274669BBC367F4E96FAFC8528AD61129E8AE19F095",
-  "apkUrl": "https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.4.5/mathrix.apk"
+  "releaseTag": "v2.4.6",
+  "releaseNotes": "- Se optimizó el rendimiento de los temas visuales disponibles en MATHrix Suite.\n- Se ampliaron los colores de acento: hay más colores normales y versiones suaves para todos, y los tonos suaves se aplican correctamente en el logo y la interfaz.\n- En «Mi cuenta» es más fácil encontrar la opción para comprar funciones, solucionadores o materias por separado (según disponibilidad).",
+  "sha256": "4E010AF401995140F6561561C2B00A874B719C7E640E79E8316E5EFB3724228A",
+  "apkUrl": "https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.4.6/mathrix.apk"
 }
