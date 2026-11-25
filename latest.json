@@ -1,9 +1,9 @@
 {
-  "versionCode": 18,
-  "versionName": "2.4.6",
+  "versionCode": 23,
+  "versionName": "2.4.11",
   "minimumVersionCode": 5,
-  "releaseTag": "v2.4.6",
-  "releaseNotes": "- Se optimizó el rendimiento de los temas visuales disponibles en MATHrix Suite.\n- Se ampliaron los colores de acento: hay más colores normales y versiones suaves para todos, y los tonos suaves se aplican correctamente en el logo y la interfaz.\n- En «Mi cuenta» es más fácil encontrar la opción para comprar funciones, solucionadores o materias por separado (según disponibilidad).",
-  "sha256": "4E010AF401995140F6561561C2B00A874B719C7E640E79E8316E5EFB3724228A",
-  "apkUrl": "https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.4.6/mathrix.apk"
+  "releaseTag": "v2.4.11",
+  "releaseNotes": "- El tema visual elegido se conserva al volver a abrir la app.\n- Observatorio Nocturno cambia automáticamente entre modo claro y oscuro según la hora, con acentos que acompañan el día, el atardecer y la noche.\n- Se corrigieron los colores del cielo y la animación del telescopio; el cielo blanco ahora es opcional.",
+  "sha256": "C0C005299D05CE8012AD7700BAF78C958CFC6B3DB76E9B86AC686293D67EBFFE",
+  "apkUrl": "https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.4.11/mathrix.apk"
 }
