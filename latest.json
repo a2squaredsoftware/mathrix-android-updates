@@ -1,10 +1,10 @@
 {
-  "versionCode": 24,
-  "versionName": "2.4.12",
+  "versionCode": 25,
+  "versionName": "2.4.13",
   "minimumVersionCode": 5,
-  "releaseTag": "v2.4.12",
+  "releaseTag": "v2.4.13",
   "releaseNotes": "- Optimización del tema visual Observatorio Nocturno.\n- - Mejoras de rendimiento en cálculos con SymPy.",
   "sha256": "2FDFC3F7D5BAF8E94D511F51ED58B8689D46718009806C8C33BE6D1DD2D9A0B6",
-  "apkUrl": "https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.4.12/mathrix.apk"
+  "apkUrl": "https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.4.13/mathrix.apk"
 }
 
