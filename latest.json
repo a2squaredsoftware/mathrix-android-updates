@@ -1,9 +1,9 @@
 {
-  "versionCode": 24,
-  "versionName": "2.4.12",
+  "versionCode": 25,
+  "versionName": "2.5.0",
   "minimumVersionCode": 5,
-  "releaseTag": "v2.4.12",
-  "releaseNotes": "- Optimización del tema visual Observatorio Nocturno.\n- - Mejoras de rendimiento en cálculos con SymPy.",
-  "sha256": "2FDFC3F7D5BAF8E94D511F51ED58B8689D46718009806C8C33BE6D1DD2D9A0B6",
-  "apkUrl": "https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.4.12/mathrix.apk"
+  "releaseTag": "v2.5.0",
+  "releaseNotes": "- El tema, el color de acento y el logo se sincronizan desde el inicio.\n- El Observatorio Nocturno incorpora parallax horizontal ajustable, árboles con movimiento independiente y colores dinámicos.\n- Las funciones Suite compradas siguen disponibles sin conexión tras verificar la cuenta.\n- La tienda facilita comprar Suite o adquirir funciones, materias y solucionadores por separado.\n- Mejoras de rendimiento en cálculos con SymPy.",
+  "sha256": "8114DCC5449950FE40B1A0F303AE5799E41D28C3197A3EAC08563F02D38C867C",
+  "apkUrl": "https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.5.0/mathrix.apk"
 }
