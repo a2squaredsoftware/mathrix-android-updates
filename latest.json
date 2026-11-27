@@ -1,9 +1,1 @@
-{
-  "versionCode": 25,
-  "versionName": "2.5.0",
-  "minimumVersionCode": 5,
-  "releaseTag": "v2.5.0",
-  "releaseNotes": "- El tema, el color de acento y el logo se sincronizan desde el inicio.\n- El Observatorio Nocturno incorpora parallax horizontal ajustable, árboles con movimiento independiente y colores dinámicos.\n- Las funciones Suite compradas siguen disponibles sin conexión tras verificar la cuenta.\n- La tienda facilita comprar Suite o adquirir funciones, materias y solucionadores por separado.\n- Mejoras de rendimiento en cálculos con SymPy.",
-  "sha256": "8114DCC5449950FE40B1A0F303AE5799E41D28C3197A3EAC08563F02D38C867C",
-  "apkUrl": "https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.5.0/mathrix.apk"
-}
+{"versionCode":26,"versionName":"2.5.1","minimumVersionCode":5,"releaseTag":"v2.5.1","releaseNotes":"Correcciones de validacion, rigor educativo, cache offline y actualizacion Android 2.5.1.","sha256":"fef9396e3c20eeb110e7e5f9f9ced5ba52119324f62a40819e455700078ca7a0","apkUrl":"https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.5.1/mathrix.apk"}
