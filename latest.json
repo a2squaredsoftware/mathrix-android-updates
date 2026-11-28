@@ -3,7 +3,7 @@
   "versionName": "2.5.2",
   "minimumVersionCode": 5,
   "releaseTag": "v2.5.2",
-  "releaseNotes": "MATHrix 2.5.2 estrena el identificador Android com.a2software.mathrix y el icono adaptable a los colores elegidos. Android la instala como una app nueva; no reemplaza com.brayan.mathrix. Comprueba la nueva app antes de retirar la anterior.",
+  "releaseNotes": "MATHrix 2.5.2 estrena el identificador Android com.a2software.mathrix y el icono adaptable a los colores elegidos. Comprueba la nueva app antes de retirar la anterior.",
   "sha256": "c08b06df3fe90df9ad67291524aa74b620b9cd899fe831e79583b060a5dc0747",
   "apkUrl": "https://github.com/a2squaredsoftware/mathrix-android-updates/releases/download/v2.5.2/mathrix.apk"
 }
